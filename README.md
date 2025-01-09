@@ -1,3 +1,6 @@
+#Colab file link:
+https://colab.research.google.com/drive/11zWGOXLzbMtcfZon-wW79Z7Bn3XF7CKk?usp=sharing
+
 # Stock_Prediction
 Stock prediction done using linear Regression through machine learing on past stock data of 
 1. Apple
